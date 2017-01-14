@@ -1,0 +1,21 @@
+/*
+Theme Name: Beer Ape
+Author: zxhpj
+Author URI: https://www.beerape.xyz/
+Description: www.beerape.xyz themes
+Version: 1.0
+*/
+
+.beerape-left{}
+.beerape-right{}
+.beerape-mtop10{margin-top: 10px;}
+.beerape-mtop20{margin-top: 20px;}
+
+.post-list .panel-body{padding-top: 0;padding-bottom: 0;}
+.post-meta , .post-meta a{color: #8c8c8c;}
+
+.beerape-right .panel-heading{padding-bottom: 0;}
+.beerape-right .panel-body{padding-top: 0;padding-bottom: 0;}
+
+#wp-calendar{width: 100%;}
+
